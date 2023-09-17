@@ -2,7 +2,7 @@
 
 A simple web-based password generator that allows you to create secure and customizable passwords with ease. This generator provides options for uppercase letters, lowercase letters, numbers, and symbols, allowing you to tailor your passwords to meet specific requirements.
 
-![Password Generator Screenshot](C:\Users\adity\OneDrive\Pictures\Screenshots)
+![Password Generator Screenshot](C:\Users\adity\OneDrive\Documents\Projects\Password Generator\assets\Screenshot 2023-09-18 025601.png)
 
 ## Features
 
